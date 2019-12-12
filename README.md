@@ -1,2 +1,2 @@
-# Capstone_Project_1_Exploratory_Data_Analysis
+# Exploratory_Data_Analysis_for_Capstone
 SpringBoard_Exploratory_Data_Analysis 
